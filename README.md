@@ -1,7 +1,7 @@
 jpeg-extract
 ==================
 
-A Node module to extract an image from any jpeg steam.
+A Node module to extract an image from any jpeg stream.
 
 ### Install
 
