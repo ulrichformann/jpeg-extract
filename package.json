@@ -1,6 +1,9 @@
 {
   "name": "jpeg-extract",
   "version": "1.0.3",
+  "dependencies": {
+    "request": "2.69.0"
+  },
   "description": "Extract image files from any jpeg stream",
   "main": "jpeg-extract.js",
   "scripts": {
