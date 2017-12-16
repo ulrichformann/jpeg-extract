@@ -29,7 +29,7 @@ var extract = function(url, callback) {
 				chunks.push(data.slice(data.indexOf(soi), data.length));
 			} else {
 				if(data.indexOf(eoi) != -1) {
-					chunks.push(data.slice(0, data.indexOf(eoi) + 1));
+					chunks.push(data.slice(0, data.indexOf(eoi) + 2));
 					img = new Buffer.concat(chunks);
 
 					req.abort();
