@@ -1,7 +1,7 @@
 var fs = require('fs')
 var extract = require('./')
 
-var url = 'http://131.118.227.132:80/mjpg/video.mjpg'
+var url = 'MJPG_URL'
 
 extract(url, (err, img) => {
 	if(!err)
