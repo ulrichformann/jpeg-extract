@@ -6,7 +6,7 @@ A Node module for extracting images out of jpeg/mjpeg streams
 ### Install
 
 ```bash
-npm install jpeg-extract
+npm i jpeg-extract
 yarn add jpeg-extract
 ```
 
