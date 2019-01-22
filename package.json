@@ -6,9 +6,6 @@
   },
   "description": "Extract image files from any jpeg stream",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ulrichformann/jpeg-extract.git"
@@ -22,7 +19,7 @@
     "stream"
   ],
   "author": "Ulrich Formann <ulrich.f@live.at>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ulrichformann/jpeg-extract/issues"
   },
